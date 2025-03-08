@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python telegram_studiofancy.ir.py
